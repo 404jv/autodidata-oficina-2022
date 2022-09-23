@@ -34,3 +34,6 @@
 - [ ]  Qual o melhor curso para aprender?
 - [ ]  Faculdade ou não?
 
+## Materiais
+https://drive.google.com/drive/u/0/folders/1bcKmDypkme1WFLhCCfN-DHMyS71vvfDV
+
